@@ -9,7 +9,7 @@ public class PtxExamApplication {
 	public static void main(String[] args) {
 		
 		SpringApplication.run(PtxExamApplication.class, args);
-		System.out.println("Welcome");
+	
 	}
 
 }
